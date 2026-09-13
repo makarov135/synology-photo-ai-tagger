@@ -1,0 +1,23 @@
+# Personal photos and test media
+image/
+
+# Runtime state, AI models, reports, and original-file backups
+data/
+
+# Downloaded third-party binaries
+tools/
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# IDE settings
+.idea/
+
+# Local configuration and logs
+.env
+.env.*
+*.log
